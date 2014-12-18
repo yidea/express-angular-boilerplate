@@ -1,6 +1,6 @@
 # README
 
-Boilerpalte build upon Nodejs Express + Backbone for self-use prototyping project fast start point.
+Boilerpalte build upon Nodejs Express + Angular for self-use prototyping project fast start point.
 
 ## Run 
 - webapp 
@@ -18,7 +18,7 @@ http://localhost:3000/api
 ## Client Stack
 - bower + require + grunt
 - stylus for css precompile
-- backbone 
+- Angular 
 
 ## TODO
 - enable stylus runner
